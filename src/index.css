@@ -10,6 +10,7 @@
 body {
     background: #2D2F3A;
     background: radial-gradient(circle, var(--bg) 0%, var(--primary) 100%);
+    color: white;
 }
 
 .bg-primary {
